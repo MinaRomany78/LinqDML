@@ -188,8 +188,8 @@ namespace LinqDML
             //{
             //    Console.WriteLine($"Product Name: {item.ProductName} Brand Name: {item.BrandName} Category Name: {item.CategoryName}");
             //}
-            //19-Retrieve orders that are completed.
-            //var orders = context.Orders.Where(o => o.OrderStatus==3);
+            //19-Retrieve orders that are completed.3or4
+            //var orders = context.Orders.Where(o => o.OrderStatus==4);
             //foreach (var item in orders)
             //{
             //    Console.WriteLine($"Order ID: {item.OrderId} Order Status: {item.OrderStatus}");
